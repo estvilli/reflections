@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 Kaustas luuakse repositoorium. Kasutada tuleb käsklust "git init".
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area - vaheaste working directory ja repositooriumi vahel. Pakub võimalust valida, mis faile commitida. 
