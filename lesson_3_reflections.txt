@@ -1,3 +1,7 @@
 When would you want to use a remote repository rather than keeping all your work local?
 
 Kui failiga töötab mitu inimest või kui on vaja ligi pääseda mitmest kohast.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+Muidu tuleks liiga palju tühiseid muudatusi kaasa.
