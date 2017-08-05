@@ -21,3 +21,12 @@ Harud võimaldavad arendada välja teineteisest sõltumatuid versioone.
 How do the diagrams help you visualize the branch structure?
 
 Näitavad, mis eelneb või järgneb millele; kuidas muutused üksteisele järgnevad. 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Tulemuseks on fail(id), milles on kombineeritud ühes ja teises harus tehtud muudatused. Kujutamisviis sümboliseeribki kombineerimist. 
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automaatne - mugavam; samas ei tööta alati
+Manuaalne - kindel; samas aeganõudev
