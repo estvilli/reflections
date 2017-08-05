@@ -9,3 +9,15 @@ Staging area - vaheaste working directory ja repositooriumi vahel. Pakub võimal
 How can you use the staging area to make sure you have one commit per logical change?
 
 Võrreldes staging areas olevat faili repositooriumis oleva failiga.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+1) Üks tavaline versioon, üks riskantne versioon
+
+2) Üks esitluse, teine töö jaoks
+
+Harud võimaldavad arendada välja teineteisest sõltumatuid versioone.
+
+How do the diagrams help you visualize the branch structure?
+
+Näitavad, mis eelneb või järgneb millele; kuidas muutused üksteisele järgnevad. 
