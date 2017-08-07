@@ -15,3 +15,7 @@ Describe the differences between forks, clones, and branches. When would you use
 forks - koopiad GitHubi-siseselt; teise kasutaja projekti kasutamiseks
 clones - koopiad arvutisiseselt või GitHubist arvutisse; enda tarbeks
 branch - sama projekti erinevad võimalikud arendusrajad; luua näiteks erinevad versioonid samast programmist
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Saab kasutada offline'is.
