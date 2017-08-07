@@ -9,3 +9,9 @@ Muidu tuleks liiga palju tühiseid muudatusi kaasa.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 Sest see võimaldab paremini reguleerida, millised muudatused arvutisse satuvad.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+forks - koopiad GitHubi-siseselt; teise kasutaja projekti kasutamiseks
+clones - koopiad arvutisiseselt või GitHubist arvutisse; enda tarbeks
+branch - sama projekti erinevad võimalikud arendusrajad; luua näiteks erinevad versioonid samast programmist
