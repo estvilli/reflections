@@ -23,3 +23,7 @@ Saab kasutada offline'is.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 E-posti teel. Kõik oleks raskem ja aeganõudvam.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Eraldi harus on parem, kuna siis on võimalik enne veenduda muudatuste õigsuses, kui hakata seda põhiharuga liitma.
